@@ -1,0 +1,8 @@
+{
+  "name": "huerta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "da84d24b"
+}
